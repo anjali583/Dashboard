@@ -20,9 +20,13 @@ Assist stakeholders in identifying impactful regions by analyzing transaction pa
 Offer visual insights into transaction types, amounts, and timelines, aiding in informed decision-making and strategy formulation.
 
 **- Key Features:**
+
 --> Map & Bar Chart: Interactive visualization of transaction data on a map of India, complemented by bar charts for deeper insights.
+
 --> Payment Mode Analysis: Breakdown of transaction volumes and values by different payment methods.
+
 --> Top States: Identification and analysis of the top-performing states based on transaction metrics.
+
 -->Transaction Analysis: Detailed exploration of transaction trends across various regions and timelines.
 
 The app serves as a strategic tool for understanding user behavior, preferences, and regional performance in PhonePe transactions, contributing to more informed business decisions.
